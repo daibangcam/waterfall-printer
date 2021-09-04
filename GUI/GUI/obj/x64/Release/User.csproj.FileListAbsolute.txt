@@ -1,0 +1,2 @@
+C:\Users\daiba\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\BKWGen6\obj\x64\Release\User.csproj.ResolveComReference.cache
+C:\Users\daiba\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\GUI\obj\x64\Release\User.csproj.ResolveComReference.cache
